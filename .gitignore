@@ -1,0 +1,7 @@
+posts/*.md
+src/uploads
+_site
+_site/
+_bin
+deno.lock
+.vscode
